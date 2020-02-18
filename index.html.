@@ -1,0 +1,74 @@
+<html>
+<head>
+  <!-- write your hero's name here in the <title> element  -->
+  <title></title>
+</head>
+
+
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <div class="col-xs-12">
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1 class="text-center">Martin Luther King</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2 class="text-center">El hombre que defendio los Derechos Civiles de los Afroaestaunidenses</h2>
+          <div class="thumbnail">
+            <!-- place and image here; use an image already on the internet -->
+<img src="https://www.bread.org/sites/default/files/styles/875_wide/public/field/image/king_martin_luther.jpg?itok=GuwZzTFI" alt= "Martin Luther King" width ="600">
+            <!-- place a caption under your picture which explains the picture -->
+            <div class="caption text-center">Celebrating the Legacy of Dr.Martin Luther King Jr.    </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3 class="text-center">Why Martin Luther King fight for peaceful black equality?</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Martin Luther King devoted much of his life to the struggle for equality and recognition of the rights of the black population, and against violence and racial discrimination in the United States. Discrimination that completely cracked American society. "I have a dream". This beautiful plea defended peace and equality among human beings.Black Power,Black Muslims,Black Panthers..They all wobbled the foundations raised by Martin Luther King.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+            <!-- Timeline heading; use <h3>  -->
+            <h3 class="text-center">Timeline of Matin Luther King's life:</h3>
+            <!-- create a timeline using an unordered list -->
+            <ul>
+              <li>1946
+Aug. 6: The Atlanta Constitution publishes a letter to the editor from King supporting minority rights.</li>
+              <li>1953
+June 18: King and Coretta Scott are married near Marion, Ala. King’s father officiates at the service.</li>
+              <li>1957 May 17: King delivers his first national address, “Give Us the Ballot,” at the Prayer Pilgrimage for Freedom at the Lincoln Memorial in Washington.</li>
+              <li>1963
+April 16: After being arrested for ignoring an Alabama state court injunction against demonstrations, King writes his famous Letter from a Birmingham Jail, a defense of nonviolent resistance to racism.
+
+Aug. 28: King delivers his “I Have a Dream” .</li>
+              <li>1964 Dec. 10: King wins Nobel Peace Prize.
+             "Civil Law Act"</li>
+              <li>1965: Voting Rights Act. Inmigration and Nationality Services.</li>
+              <li>1968 april 4:Martin Luther King had come to Memphis to support a strike of black dumps. When he was on the balcony of his room at the Lorraine motel, James Earl Ray, a white man who had escaped from prison, shot him dead. The king was 39 years old. His death unleashed a wave of riots, fires and looting in 168 cities. In Memphis is today the Museum of civil rights, erected in his memory.
+</li>
+            </ul>
+            
+          
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p>"I Have a Dream" -Martin Luther king</p>
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3>If you consider someone as a defender of African-American rights, read about this man who achieved many things for them.</h3>
+            <a href="https://www.telesurtv.net/multimedia/Luchas-y-logros-del-lider-social-Martin-Luther-King-20180402-0062.html"> Visit this link</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>         </p>
+    </footer>
+  </div>
+</body>
+</html>
